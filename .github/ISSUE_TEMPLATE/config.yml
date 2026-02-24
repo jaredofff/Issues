@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discord Support
+    url: https://discord.gg/V6FTB4u8ZH
+    about: Get real-time help on our Discord server
+  - name: 📖 Documentation
+    url: https://onze-plugins.gitbook.io/onze-plugins-docs/
+    about: Check the wiki before opening an issue
